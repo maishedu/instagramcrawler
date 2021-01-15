@@ -1,0 +1,8 @@
+fields:
+  username:
+    span: left
+    label: Client Id
+
+  tag:
+    span: left
+    label: Access Token
